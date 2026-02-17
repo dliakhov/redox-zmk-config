@@ -1,7 +1,7 @@
 include:
-  - board: nrfmicro/nrf52840/zmk
+  - board: nrfmicro_13
     shield: redox_left
-  - board: nrfmicro/nrf52840/zmk
+  - board: nrfmicro_13
     shield: redox_right
-  - board: nrfmicro/nrf52840/zmk
+  - board: nrfmicro_13
     shield: settings_reset
